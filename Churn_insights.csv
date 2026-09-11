@@ -1,0 +1,60 @@
+## 🔎 Key Insights
+
+Based on the SQL and Python analysis, the following insights can be derived from the customer churn data:
+
+- Customer churn is not evenly distributed across all customer groups, indicating that certain segments require greater retention attention.
+- Subscription type has an important relationship with customer retention, with some plans showing comparatively higher churn.
+- Customer usage behavior can help identify customers who may be at higher risk of leaving.
+- Customers with greater support-ticket activity may require additional attention, as frequent support interactions can indicate dissatisfaction or unresolved issues.
+- Transaction behavior provides useful information for understanding differences between retained and churned customers.
+- Combining customer, subscription, usage, support, and transaction data provides a more complete view of customer behavior than analyzing any single dataset.
+
+---
+
+## 💡 Business Recommendations
+
+### 1. Identify High-Risk Customers
+
+Develop a customer-risk segmentation system using factors such as usage, subscription type, transaction behavior, and support activity.
+
+### 2. Improve Customer Onboarding
+
+Customers showing low engagement shortly after joining should receive additional onboarding support, tutorials, and product guidance.
+
+### 3. Monitor Support Issues
+
+Track customers with repeated support tickets and prioritize unresolved or recurring issues to reduce dissatisfaction.
+
+### 4. Create Targeted Retention Campaigns
+
+Instead of using the same retention strategy for every customer, create targeted offers and engagement campaigns for high-risk customer segments.
+
+### 5. Encourage Product Engagement
+
+Customers with declining or consistently low usage can be targeted with personalized notifications, feature recommendations, and engagement campaigns.
+
+### 6. Review Subscription Plans
+
+If particular subscription plans consistently show higher churn, investigate pricing, features, customer expectations, and perceived value associated with those plans.
+
+### 7. Use Data-Driven Churn Monitoring
+
+Create a Power BI dashboard to monitor churn rate, customer segments, subscription performance, usage patterns, support activity, and revenue trends on a regular basis.
+
+### 8. Develop Churn Prediction
+
+As a future enhancement, machine learning can be used to predict customers who are likely to churn and allow the business to take preventive action before the customer leaves.
+
+---
+
+## 🎯 Expected Business Impact
+
+Implementing these recommendations can help businesses:
+
+- Reduce customer churn.
+- Improve customer retention.
+- Increase customer lifetime value.
+- Identify dissatisfied customers earlier.
+- Improve customer experience.
+- Optimize subscription strategies.
+- Make faster and more informed business decisions.
